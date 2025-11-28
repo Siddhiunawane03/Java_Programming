@@ -1,2 +1,1 @@
-# Java_Programming
-Java programs and object-oriented practice exercises.
+# Java Programming Repository 
